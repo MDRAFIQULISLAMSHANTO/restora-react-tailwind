@@ -1,6 +1,6 @@
 # Restora – React Tailwind Restaurant Website
 
-A modern, responsive restaurant website built using **React** and **Tailwind CSS**, inspired by [a YouTube tutorial by Codehal](https://www.youtube.com/watch?v=Wtm_VyuPssk). This project showcases a clean UI, mobile responsiveness, and smooth user experience, making it ideal for portfolio display or restaurant businesses.
+A modern, responsive restaurant website built using **React** and **Tailwind CSS**.. This project showcases a clean UI, mobile responsiveness, and smooth user experience, making it ideal for portfolio display or restaurant businesses.
 
 ## 🔧 Tech Stack
 
@@ -21,7 +21,7 @@ A modern, responsive restaurant website built using **React** and **Tailwind CSS
 
 ## 📸 Live Preview
 
-👉 [Visit Live Website](https://www.ictvista.com) _(Replace with your actual live link)_
+
 
 ## 📁 Folder Structure
 
